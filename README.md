@@ -1,4 +1,4 @@
-# Tetris On Libgraphics
+# Little Teris
 
 A simple Tetris implement based on libgraphics & imgui. 
 
